@@ -1,0 +1,4 @@
+Url1 https://www.facebook.com/
+Browser Edge
+
+url2 https://profile.oracle.com/myprofile/account/create-account.jspx
